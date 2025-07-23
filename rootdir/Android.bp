@@ -1,0 +1,14 @@
+//
+// Copyright (C) 2025 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+// Init scripts
+// Init configuration files
+// fstab
+prebuilt_etc {
+    name: "fstab.mt6853",
+    src: "etc/fstab.mt6853",
+    vendor: true,
+}

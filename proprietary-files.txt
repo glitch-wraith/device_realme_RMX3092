@@ -1,0 +1,67 @@
+# Unpinned blobs from sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1612759478108-release-keys
+
+# Audio configs
+etc/audio_effects.conf
+
+# Fingerprint
+bin/hw/android.hardware.biometrics.fingerprint@2.3-service.RMX3092
+etc/init/android.hardware.biometrics.fingerprint@2.3-service.RMX3092.rc
+etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.3-service.RMX3092.xml
+lib64/vendor.oplus.hardware.biometrics.fingerprint@2.1.so
+
+# Media
+etc/seccomp_policy/mediacodec.policy
+lib/libmedia_codeclist.so
+lib/libstagefright_bufferpool@2.0.1.so
+lib/libstagefright_codecbase.so
+lib/libstagefright_framecapture_utils.so
+lib/libstagefright_wfd.so
+lib64/libmedia_codeclist.so
+lib64/libstagefright_bufferpool@2.0.1.so
+lib64/libstagefright_codecbase.so
+lib64/libstagefright_framecapture_utils.so
+
+# Radio (IMS)
+system_ext/lib/vendor.mediatek.hardware.videotelephony@1.0.so
+system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
+
+# Miscellaneous
+vendor/etc/fstab.mt6853
+vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
+vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/vendor/etc/fstab.mt6853
